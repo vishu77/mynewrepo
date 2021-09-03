@@ -1,1 +1,2 @@
 This is file3.txt
+newline added in Git Hub
